@@ -1,0 +1,238 @@
+{
+  "series": [
+    {
+      "nome": "Peaky Blinders",
+      "generos": ["Ação", "Crime"],
+      "ano": "2013-",
+      "imdbRating": "8.8",
+      "restricao": "16",
+      "sinopse": "Os Peaky Blinders é uma organização criminosa de origem cigana que se passa na cidade de Birmingham, Inglaterra, em 1919, formada vários meses após o final da Primeira Guerra Mundial (1914–1918). A história é centrada na ambição do líder da gangue inglesa, Thomas 'Tommy' Shelby (Cillian Murphy).",
+      "imagem": "https://wallpapercave.com/wp/wp3766660.jpg"
+    },
+    {
+      "nome": "Dark",
+      "generos": ["Crime", "Drama", "Misterio"],
+      "ano": "2017-2020",
+      "imdbRating": "8.8",
+      "restricao": "16",
+      "sinopse": "Dark é uma série sobre viagens no tempo - e daí vem grande parte da complexidade da trama: o público acompanha tudo o que aconteceu na pequena cidade fictícia de Winden, na Alemanha, principalmente nos anos de 1953, 1986 e 2019 (ou seja, em pontos-chave de dois ciclos de exatamente 33 anos cada).",
+      "imagem": "https://wallpapers.moviemania.io/phone/tv/70523/796198/dark-phone-wallpaper.jpg?w=1536&h=2732"
+    },
+    {
+      "nome": "Game of Thrones",
+      "generos": ["Ação", "Aventura", "Drama"],
+      "ano": "2011–2019",
+      "imdbRating": "9.3",
+      "restricao": "16",
+      "sinopse": "Game of Thrones conta a históra de um lugar onde uma força destruiu o equilíbrio das estações, há muito tempo. Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, as reivindicações e as forças sobrenaturais correm as portas do Reino dos Sete Reinos.",
+      "imagem": "https://s2.best-wallpaper.net/wallpaper/iphone/1906/Game-of-Thrones-hot-TV-series_iphone_1080x1920.jpg"
+    },
+    {
+      "nome": "The Boys",
+      "generos": ["Ação", "Comedia", "Crime"],
+      "ano": "2019-",
+      "imdbRating": "8.7",
+      "restricao": "18",
+      "sinopse": "The Boys se passa em um universo onde indivíduos superpoderosos são reconhecidos como heróis pelo público em geral e pertencem à poderosa corporação Vought International, que os comercializa e monetiza. Fora de suas personas heroicas, a maioria é arrogante e corrupta.",
+      "imagem": "https://images.hdqwalls.com/download/the-boys-homelander-4k-hr-1280x2120.jpg"
+    },
+    {
+      "nome": "The Office",
+      "generos": ["Comedia"],
+      "ano": "2005-2013",
+      "imdbRating": "8.9",
+      "restricao": "12",
+      "sinopse": "The Office é uma comédia que gira em torno do cotidiano de um escritório. Esta sátira descreve a vida dos funcionários da fábrica de papel Dunder Miffin, situada em Scranton, na Pensilvânia. Entre os personagens está Michael Scout (Steve Carell), o gerente regional da empresa.",
+      "imagem": "https://cdn.shopify.com/s/files/1/2604/9744/products/mWViWcVuW7oLn149FO6uJMfpNpY_1200x1800.jpg?v=1543674512"
+    },
+    {
+      "nome": "Community",
+      "generos": ["Comedia"],
+      "ano": "2009-2015",
+      "imdbRating": "8.5",
+      "restricao": "12",
+      "sinopse": "Esta é uma série sobre um grupo de desajustados que estudam no Greendale Community College. O líder do grupo é Jeff Winger, um advogado bom de lábia que perdeu sua licença. Com a ajuda de seus colegas, Winger forma um grupo de estudos que, juntos, descobrem mais sobre si mesmos do que sobre os estudos.",
+      "imagem": "https://i.pinimg.com/736x/f9/13/43/f913433954648591c986a22236b8887d.jpg"
+    },
+    {
+      "nome": "Vikings",
+      "generos": ["Ação", "Aventura", "Drama"],
+      "ano": "2013-",
+      "imdbRating": "8.5",
+      "restricao": "16",
+      "sinopse": "Vikings segue a vida de Ragnar Lothbrok (Travis Fimmel), o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de guerreiro implacável, Ragnar segue as tradições nórdicas e é devoto dos deuses.",
+      "imagem": "https://i.pinimg.com/originals/3a/47/2f/3a472f01df84c9d392ad1394a8cc5a96.jpg"
+    },
+    {
+      "nome": "Breaking Bad",
+      "generos": ["Crime", "Drama", "Suspense"],
+      "ano": "2008-2013",
+      "imdbRating": "9.5",
+      "restricao": "16",
+      "sinopse": "Breaking Bad é uma série de televisão americana criada e produzida por Vince Gilligan. Ela retrata a vida do químico Walter White, um homem brilhante frustrado em dar aulas para adolescentes do ensino médio enquanto lida com um filho sofrendo de paralisia cerebral, uma esposa grávida e dívidas intermináveis.",
+      "imagem": "https://wallpaperplay.com/walls/full/e/5/3/158862.jpg"
+    },
+    {
+      "nome": "Supernatural",
+      "generos": ["Drama", "Fantasia", "Terror"],
+      "ano": "2005-2020",
+      "imdbRating": "8.4",
+      "restricao": "14",
+      "sinopse": "A série narra a história de dois irmãos, Sam Winchester e Dean Winchester, interpretados respectivamente por Jared Padalecki e Jensen Ackles, que caçam demônios, fantasmas, monstros e outras criaturas sobrenaturais no mundo. ... As filmagens da série ocorrem em Vancouver, no estado da Colúmbia Britânica, no Canadá.",
+      "imagem": "https://image.winudf.com/v2/image/Y29tLmluc2xhYi5zdXBlcm5hdHVyYWxsb2Nrc2NyZWVud2FsbHBhcGVyaGRfc2NyZWVuXzBfMTUyNDU0NzAzMV8wNzc/screen-0.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "nome": "Ozark",
+      "generos": ["Crime", "Drama", "Suspense"],
+      "ano": "2017-",
+      "imdbRating": "8.4",
+      "restricao": "16",
+      "sinopse": "Repentinamente, Marty desloca sua família de um subúrbio de Chicago até uma comunidade de resort de verão situada nos montes Ozark, Missouri. Após um esquema de lavagem de dinheiro fracassar, ele acaba ficando em dívida com um traficante de drogas mexicano.",
+      "imagem": "https://streaming.hdsvf.com/wp-content/uploads/2020/03/ozark-18143-poster.jpg"
+    },
+    {
+      "nome": "Friends",
+      "generos": ["Comedia", "Romance"],
+      "ano": "1994-2004",
+      "imdbRating": "8.9",
+      "restricao": "12",
+      "sinopse": "Seis jovens são unidos por laços familiares, românticos e, principalmente, de amizade, enquanto tentam vingar em Nova York. Rachel é a garota mimada que deixa o noivo no altar para viver com a amiga dos tempos de escola Monica, sistemática e apaixonada pela culinária.",
+      "imagem": "https://wallpapercave.com/wp/wp4112166.jpg"
+    },
+    {
+      "nome": "Hanna",
+      "generos": ["Ação", "Drama"],
+      "ano": "2019-",
+      "imdbRating": "7.5",
+      "restricao": "16",
+      "sinopse": "Hanna é uma série da Amazon Prime, inspirada em um filme de 2011, do qual ninguém se lembra. A ideia, em resumo, é uma adolescente, treinada desde criança para ser uma super assassina do mal sem sentimentos.",
+      "imagem": "https://s2.best-wallpaper.net/wallpaper/iphone/1903/Hanna-TV-series_iphone_1242x2688.jpg"
+    },
+    {
+      "nome": "Stranger Things",
+      "generos": ["Drama", "Fantasia", "Terror"],
+      "ano": "2016-",
+      "imdbRating": "8.8",
+      "restricao": "14",
+      "sinopse": "Em novembro de 1983, na pequena cidade de Hawkins, Indiana, um garoto de 12 anos, Will Byers desaparece misteriosamente. A mãe de Will, Joyce, torna-se frenética e tenta encontrar Will, enquanto o chefe de polícia Jim Hopper começa a investigar, assim como os amigos de Will: Mike, Dustin e Lucas.",
+      "imagem": "https://archziner.com/wp-content/uploads/2020/02/stranger-things-3-wallpaper-the-title-logo-of-the-show-written-in-neon-red-over-black-background.png"
+    },
+    {
+      "nome": "La Casa de Papel",
+      "generos": ["Ação", "Crime", "Fantasia"],
+      "ano": "2017-",
+      "imdbRating": "8.4",
+      "restricao": "16",
+      "sinopse": "Nesta sexta-feira, dia 19 de julho, a série espanhola La Casa de Papel retorna para sua terceira temporada na Netflix. A série conta a história de um grupo de criminosos da Espanha que tem o objetivo de assaltar a Casa da Moeda e faturar uma quantia quase bilionária sem serem pegos.",
+      "imagem": "https://i.pinimg.com/originals/21/a9/38/21a93845630b62edd835349905e4e0b4.jpg"
+    },
+    {
+      "nome": "The Sopranos",
+      "generos": ["Crime", "Drama"],
+      "ano": "1999-2007",
+      "imdbRating": "9.5",
+      "restricao": "16",
+      "sinopse": "A série acompanha a vida de Tony Soprano (James Gandolfini), um mafioso ítalo-americano de Nova Jersey que depois de um ataque de pânico, procura ajuda profissional. É a Dra. Jennifer Melfi (Lorraine Bracco) quem o ajuda a lidar com os problemas e 'negócios da família'.",
+      "imagem": "https://fsa.zobj.net/crop.php?r=VfFzkYCAdSyEZw2MDP7mYRRrv77jLYuLCP79emfUHw3LIPpCTzaMwHcF2kDhNRhuZHhohQFP1pZYKLZ6yH44Xr1foMPNyWF9zd-_L2YM2go6WkHsvIyVfXxQLGcJCm6fUAV3i3mxsSLtyVbT"
+    },
+    {
+      "nome": "Sons of Anarchy",
+      "generos": ["Crime", "Drama", "Suspense"],
+      "ano": "2008-2014",
+      "imdbRating": "8.6",
+      "restricao": "16",
+      "sinopse": "é uma série dramática de televisão estadunidense criada por Kurt Sutter sobre a vida de motociclistas (membros de um clube de Motociclistas ou Motoclube) que se passa em Charming, uma cidade fictícia no norte da Califórnia",
+      "imagem": "https://wallpapercave.com/wp/wp3185613.jpg"
+    },
+    {
+      "nome": "Black Mirror",
+      "generos": ["Drama", "Sci-Fi", "Suspense"],
+      "ano": "2011-",
+      "imdbRating": "8.8",
+      "restricao": "16",
+      "sinopse": "Black Mirror é uma série de televisão britânica antológica de ficção científica criada por Charlie Brooker e centrada em temas obscuros e satíricos que examinam a sociedade moderna, particularmente a respeito das consequências imprevistas das novas tecnologias.",
+      "imagem": "https://br.web.img3.acsta.net/pictures/16/11/23/19/25/592195.png"
+    },
+    {
+      "nome": "Westworld",
+      "generos": ["Drama", "Misterio", "Sci-Fi"],
+      "ano": "2016-",
+      "imdbRating": "8.7",
+      "restricao": "16",
+      "sinopse": "No futuro, o parque temático Westworld oferece a seus visitantes a oportunidade de conhecer o Velho Oeste em um gigantesco terreno, incluindo a cidade fronteiriça de Sweetwater. ... Uma equipe supervisiona o parque, desenvolve novas narrativas e realiza reparos nos anfitriões quando necessário.",
+      "imagem": "https://wallpaperaccess.com/full/2533382.jpg"
+    },
+    {
+      "nome": "Lost",
+      "generos": ["Aventura", "Drama", "Fantasia"],
+      "ano": "2004-2010",
+      "imdbRating": "8.3",
+      "restricao": "16",
+      "sinopse": "Um avião cai em uma ilha deserta e logo um grupo de passageiros precisa lutar para sobreviver. Liderados pelo médico Jack Shephard (Matthew Fox) e pelo misterioso John Locke (Terry O'Quinn), eles irão descobrir que o local esconde perigosos segredos.",
+      "imagem": "https://wallpapers.moviemania.io/phone/tv/4607/2c42f9/lost-phone-wallpaper.jpg?w=1536&h=2732"
+    },
+    {
+      "nome": "Better Call Saul",
+      "generos": ["Crime", "Drama"],
+      "ano": "2015-",
+      "imdbRating": "8.7",
+      "restricao": "14",
+      "sinopse": "Série derivada do sucesso Breaking Bad, é ambientada seis anos antes de Saul Goodman (Bob Odenkirk) conhecer Walter White. ... A série acompanhará a transformação de Jimmy em Saul Goodman, o homem que coloca “”criminosos”” dentro da “”lei””.",
+      "imagem": "https://i.pinimg.com/originals/a9/0a/2f/a90a2f2481b25bcf7e9e2d09e87e5a3c.jpg"
+    },
+    {
+      "nome": "The Witcher",
+      "generos": ["Ação", "Aventura", "Fantasia"],
+      "ano": "2019-",
+      "imdbRating": "8.2",
+      "restricao": "16",
+      "sinopse": "Baseado na série de livros Wiedźmin, do escritor polonês Andrzej Sapkowski, The Witcher se passa em um mundo de fantasia medieval e segue a história de Geralt de Rívia, um dos últimos bruxos restantes na Terra. Ele é um destemido andarilho e caçador de monstros, dotado de capacidades físicas sobrenaturais.",
+      "imagem": "https://wallpaperaccess.com/full/1692037.jpg"
+    },
+    {
+      "nome": "The Mandalorian",
+      "generos": ["Ação", "Aventura", "Sci-Fi"],
+      "ano": "2019-",
+      "imdbRating": "8.7",
+      "restricao": "14",
+      "sinopse": "Após a história de Jango e Boba Fett, outro guerreiro surge no universo de Star Wars. O Mandaloriano é ambientada após a queda do império e antes do surgimento da Primeira Ordem. A trama acompanhará as histórias de um atirador nos confins da galáxia longe da autoridade da Nova República.",
+      "imagem": "https://wallpapercave.com/wp/wp4916165.jpg"
+    },
+    {
+      "nome": "American Horror Story",
+      "generos": ["Drama", "Terror", "Suspense"],
+      "ano": "2011-",
+      "imdbRating": "8.0",
+      "restricao": "18",
+      "sinopse": "Baseada na lenda de Roanoke, narra a história do casal Shelby (Sarah Paulson / Lily Rabe) e Matt (Cuba Goodin Jr / André Holland), que se muda para uma casa no campo em Roanoke, Virginia, e descobrem uma série de acontecimentos estranhos nos arredores da residência.",
+      "imagem": "https://wallpaperaccess.com/full/1286582.png"
+    },
+    {
+      "nome": "Hannibal",
+      "generos": ["Crime", "Drama", "Terror"],
+      "ano": "2013-2015",
+      "imdbRating": "8,5",
+      "restricao": "18",
+      "sinopse": "Sete anos se passaram desde que Dr. Hannibal Lecter escapou da prisão. O brilhante mas perigosíssimo psiquiatra agora está solto pela Europa. Mason Verger se lembra bem do seu contato com Dr. Lecter, pois foi sua sexta vítima. Embora horrivelmente desfigurado, sobreviveu, e agora busca vingança. Verger percebe que, para encontrar Lecter, precisa despertar o interesse dele com uma isca: a agente do FBI Clarice Starling.",
+      "imagem": "https://i.pinimg.com/originals/68/de/de/68dede0bcfecc8a8d36cc1ce9cdb6305.jpg"
+    },
+    {
+      "nome": "The Handmaid's Tale",
+      "generos": ["Drama", "Sci-Fi", "Suspense"],
+      "ano": "2017-",
+      "imdbRating": "8,5",
+      "restricao": "16",
+      "sinopse": "A República de Gileade é um estado totalitário que tenta usar a Bíblia para fundamentar seus atos. Kate foi presa por tentar atravessar a fronteira, seu marido foi morto e ela nunca mais viu a filha. Após ser cruelmente treinada para ter relações sexuais com quem o governo determinar, ela é designada para ser a serva do comandante, o supremo chefe militar.",
+      "imagem": "https://i.pinimg.com/originals/da/54/e9/da54e975f3eb9e1c33ca134d133bc1ed.jpg"
+    },
+    {
+      "nome": "MindHunter",
+      "generos": ["Crime", "Drama", "Suspense"],
+      "ano": "2017-",
+      "imdbRating": "8,6",
+      "restricao": "16",
+      "sinopse": "Em 1977, — nos primeiros dias da psicologia criminal e do perfil criminal no Federal Bureau of Investigation[5] — Mindhunter gira em torno dos agentes do FBI Holden Ford (Jonathan Groff) e Bill Tench (Holt McCallany), que entrevistaram assassinos em série presos, com o intuito de entender como esses criminosos pensam e aplicam esse conhecimento para resolver os casos em curso.",
+      "imagem": "https://wallpaperaccess.com/full/1090249.png"
+    }
+  ]
+}

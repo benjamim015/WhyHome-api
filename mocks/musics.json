@@ -1,0 +1,172 @@
+{
+  "musics": [
+    {
+      "nome": "Rockstar",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "DaBaby",
+      "imagem": ""
+    },
+    {
+      "nome": "Blinding Lights",
+      "genero": ["Synthwave", "R&B", "Soul"],
+      "ano": "2020",
+      "artista": "The Weeknd",
+      "imagem": "https://pbs.twimg.com/media/EGNUVFYXoAICVEy.jpg"
+    },
+    {
+      "nome": "Whats Poppin",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Jack Harlow",
+      "imagem": "https://cdn.idolbirthdays.com/images/16/jack-harlow.jpg"
+    },
+    {
+      "nome": "Savage",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Megan Thee Stallion",
+      "imagem": "https://i.pinimg.com/originals/bc/f0/d2/bcf0d2d44a334d3f113182def736a807.png"
+    },
+    {
+      "nome": "Roses",
+      "genero": ["Dance", "Eletrônica"],
+      "ano": "2018",
+      "artista": "SAINt JHN",
+      "imagem": "https://lastfm.freetls.fastly.net/i/u/770x0/ec9d72f7bf4a89ba4ad7b056026a596b.jpg"
+    },
+    {
+      "nome": "For The Night",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Pop Smoke",
+      "imagem": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F02%2Fpop-smoke-1.jpg"
+    },
+    {
+      "nome": "Blueberry Faygo",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2019",
+      "artista": "Li Mosey",
+      "imagem": "https://sidewalkhustle.com/wp-content/uploads/2019/04/lilmosey-drew-sidewalk-1.jpg"
+    },
+    {
+      "nome": "Say So",
+      "genero": ["R&B", "Soul"],
+      "ano": "2019",
+      "artista": "Doja Cat",
+      "imagem": "https://i.pinimg.com/originals/45/b4/12/45b412c6dd55fc65d1863cdab86a4236.png"
+    },
+    {
+      "nome": "Intentions",
+      "genero": ["Pop"],
+      "ano": "2020",
+      "artista": "Justin Bieber",
+      "imagem": "https://static1.purepeople.com.br/articles/9/16/66/09/@/1991559-justin-bieber-planejava-alugar-uma-casa-950x0-2.jpg"
+    },
+    {
+      "nome": "The Woo",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Pop Smoke",
+      "imagem": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F02%2Fpop-smoke-1.jpg"
+    },
+    {
+      "nome": "Adore You",
+      "genero": ["Pop"],
+      "ano": "2019",
+      "artista": "Harry Styles",
+      "imagem": "https://thumbs.web.sapo.io/?W=800&H=0&delay_optim=1&epic=ODY0RQrQhzqW8tR2LL76GbZzUPUB03CO3pwG+s21lhgTMVm+yKI6PEgwYsHFq6a37HLJf8m5a/ECRi3LMA7cCtjB8+1mW5fm3nnUgp8rj06LZqU="
+    },
+    {
+      "nome": "Circles",
+      "genero": ["Hip-Hop", "Rap", "Pop"],
+      "ano": "2019",
+      "artista": "Post Malone",
+      "imagem": "https://i.pinimg.com/originals/65/b6/bf/65b6bf72f2ffd78ec29bd119644ad2be.jpg"
+    },
+    {
+      "nome": "We Paid",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "42 Dugg, Lil Baby",
+      "imagem": "https://sslb.ulximg.com/image/amp_article_crop/cover/1588792724_b93cf5ef6d1122a3c4dc92693922c2c4.jpg/e5bf4d4459f9b3111b2e3167bc21e8d0/1588792724_ccccd6d80bac3f6f939f2c5c4888b406.jpg"
+    },
+    {
+      "nome": "Don't Start Now",
+      "genero": ["Pop"],
+      "ano": "2020",
+      "artista": "Dua Lipa",
+      "imagem": "https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/4/b/4/d/4b4ddbec35c5acc6ad0dfa0d7066ef64.jpg"
+    },
+    {
+      "nome": "Rain On Me",
+      "genero": ["Pop"],
+      "ano": "2020",
+      "artista": "Lady Gaga, Ariana Grande",
+      "imagem": "https://assets.papelpop.com/wp-content/uploads/2020/05/100379220_564589377593326_7287391210077945856_n.png"
+    },
+    {
+      "nome": "Break My Heart",
+      "genero": ["Pop"],
+      "ano": "2020",
+      "artista": "Dua Lipa",
+      "imagem": "https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/4/b/4/d/4b4ddbec35c5acc6ad0dfa0d7066ef64.jpg"
+    },
+    {
+      "nome": "The Bones",
+      "genero": ["Country"],
+      "ano": "2019",
+      "artista": "Maren Morris",
+      "imagem": "https://www.hawtcelebs.com/wp-content/uploads/2019/06/maren-morris-performs-at-bonnaroo-music-arts-festival-in-manchester-06-15-2019-12.jpg"
+    },
+    {
+      "nome": "One Margarita",
+      "genero": ["Country"],
+      "ano": "2020",
+      "artista": "Luken Bryan",
+      "imagem": "https://wwwimage-secure.cbsstatic.com/base/files/luke_bryan_photo_-_ph_cred_-_jim_wright_1.jpg"
+    },
+    {
+      "nome": "The Bigger Pictu",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Lil Baby",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lil_Baby_-_Openair_Frauenfeld_2019_02.jpg/1200px-Lil_Baby_-_Openair_Frauenfeld_2019_02.jpg"
+    },
+    {
+      "nome": "The Box",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2019",
+      "artista": "Roddy Ricch",
+      "imagem": "https://i.pinimg.com/originals/65/b8/b1/65b8b1da97c296da4aa2bcfc1ccdfec5.jpg"
+    },
+    {
+      "nome": "Dior",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2019",
+      "artista": "Pop Smoke",
+      "imagem": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F02%2Fpop-smoke-1.jpg"
+    },
+    {
+      "nome": "I Hope",
+      "genero": ["Country"],
+      "ano": "2020",
+      "artista": "Gabby Barrett",
+      "imagem": "https://ilarge.lisimg.com/image/16218197/1118full-gabby-barrett.jpg"
+    },
+    {
+      "nome": "Life Is Good",
+      "genero": ["Hip-Hop", "Rap"],
+      "ano": "2020",
+      "artista": "Future",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Future_-_Openair_Frauenfeld_2019_05.jpg/1200px-Future_-_Openair_Frauenfeld_2019_05.jpg"
+    },
+    {
+      "nome": "Falling",
+      "genero": ["Pop"],
+      "ano": "2018",
+      "artista": "Trevor Daniel",
+      "imagem": "https://media.wonderlandmagazine.com/uploads/2020/05/TD-by-Cian-Moore-2.jpg"
+    }
+  ]
+}
