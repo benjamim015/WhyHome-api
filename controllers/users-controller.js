@@ -27,6 +27,7 @@ exports.signUp = (req, res, next) => {
         name: user.name,
         surname: user.surname,
         password: hash,
+        userList: [],
       },
       (err, data) => {
         console.log("data:", data);
@@ -90,5 +91,64 @@ exports.login = (req, res, next) => {
         response: null,
       });
     });
+  });
+};
+
+exports.addToMyList = (req, res, next) => {
+  const email = req.body.email;
+
+  db.get(email, (err, data) => {
+    if (err) {
+      return res.status(401).send({
+        msg: "Authentication failure",
+        response: null,
+      });
+    } else {
+      db.insert(
+        {
+          _id: data._id,
+          _rev: data._rev,
+          name: data.name,
+          surname: data.surname,
+          password: data.password,
+          userList:
+            req.body.type == "music"
+              ? [
+                  ...data.userList,
+                  {
+                    nome: req.body.nome,
+                    genero: req.body.genero,
+                    ano: req.body.ano,
+                    artista: req.body.artista,
+                    imagem: req.body.imagem,
+                  },
+                ]
+              : [
+                  ...data.userList,
+                  {
+                    nome: req.body.nome,
+                    generos: req.body.generos,
+                    ano: req.body.ano,
+                    imdbRating: req.body.imdbRating,
+                    restricao: req.body.restricao,
+                    sinopse: req.body.sinopse,
+                    imagem: req.body.imagem,
+                  },
+                ],
+        },
+        (err, data) => {
+          if (err) {
+            return res.status(401).send({
+              msg: "Authentication failure",
+              response: null,
+            });
+          } else {
+            return res.status(200).send({
+              msg: "Item adicinado a lista com sucesso!!",
+            });
+          }
+        }
+      );
+    }
   });
 };
