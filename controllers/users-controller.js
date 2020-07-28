@@ -152,3 +152,20 @@ exports.addToMyList = (req, res, next) => {
     }
   });
 };
+
+exports.getMyList = (req, res, next) => {
+  const email = req.body.email;
+
+  db.get(email, (err, data) => {
+    if (err) {
+      return res.status(401).send({
+        msg: "Authentication failure",
+        response: null,
+      });
+    } else {
+      return res.status(200).send({
+        userList: data.userList,
+      });
+    }
+  });
+};
