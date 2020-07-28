@@ -1,3 +1,5 @@
+require("dotenv").config();
+
 const Cloudant = require("@cloudant/cloudant");
 
 const cloudant = new Cloudant({

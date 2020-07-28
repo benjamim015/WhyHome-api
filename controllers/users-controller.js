@@ -1,6 +1,7 @@
 const cloudant = require("../ibmCloudant");
 const bcrpyt = require("bcrypt");
 const jwt = require("jsonwebtoken");
+require("dotenv").config();
 
 var dbname = "users";
 var db = null;
@@ -72,7 +73,7 @@ exports.login = (req, res, next) => {
             name: data.name,
             email: data._id,
           },
-          "BIKNR015",
+          process.env.JWT_KEY,
           {
             expiresIn: "1h",
           }
