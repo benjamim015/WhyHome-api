@@ -7,6 +7,7 @@ const rotaUsers = require("./routes/users");
 const rotaMovies = require("./routes/movies");
 const rotaSeries = require("./routes/series");
 const rotaMusics = require("./routes/musics");
+const rotaBooks = require("./routes/books");
 
 app.use(morgan("dev"));
 app.use(bodyParser.urlencoded({ extended: false }));
@@ -31,6 +32,7 @@ app.use("/users", rotaUsers);
 app.use("/movies", rotaMovies);
 app.use("/series", rotaSeries);
 app.use("/musics", rotaMusics);
+app.use("/books", rotaBooks);
 
 app.use((req, res, next) => {
   const erro = new Error("Não encontrado!");
