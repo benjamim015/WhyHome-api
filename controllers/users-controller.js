@@ -124,7 +124,8 @@ exports.addToMyList = (req, res, next) => {
                     imagem: req.body.imagem,
                   },
                 ]
-              : [
+              : req.body.type == "movie" || req.body.type == "serie"
+              ? [
                   ...data.userList,
                   {
                     nome: req.body.nome,
@@ -133,6 +134,19 @@ exports.addToMyList = (req, res, next) => {
                     ano: req.body.ano,
                     imdbRating: req.body.imdbRating,
                     restricao: req.body.restricao,
+                    sinopse: req.body.sinopse,
+                    imagem: req.body.imagem,
+                  },
+                ]
+              : [
+                  ...data.userList,
+                  {
+                    nome: req.body.nome,
+                    tipo: req.body.type,
+                    genero: req.body.generos,
+                    ano: req.body.ano,
+                    autor: req.body.autor,
+                    copias: req.body.copias,
                     sinopse: req.body.sinopse,
                     imagem: req.body.imagem,
                   },
