@@ -76,7 +76,7 @@
     },
     {
       "nome": "O Caso dos Dez Negrinhos",
-      "genero": "Romance Policial",
+      "genero": ["Romance Policial"],
       "ano": "1939",
       "autor": "Agatha Christie",
       "sinopse": "O Caso dos Dez Negrinhos conta a história de dez pessoas que ficam presas em uma ilha. ... Se assustam mais ainda quando começam a morrer um por um, de acordo com um quadro localizado acima da lareira da sala, que conta um poema de como dez negrinhos morreram.",
@@ -139,7 +139,7 @@
     },
     {
       "nome": "Pense e Enriqueça",
-      "genero": "Livro de Autoajuda",
+      "genero": ["Livro de Autoajuda"],
       "ano": "1937",
       "autor": "Napoleon Hill",
       "sinopse": "O conteúdo de Pense e Enriqueça é baseado no trabalho anterior de Hill, A Lei do Triunfo, que, segundo o autor, é o resultado de mais de 20 anos de estudo analisando indivíduos que acumularam fortunas pessoais.",
@@ -246,7 +246,7 @@
     },
     {
       "nome": "Meu Filho, Meu Tesouro",
-      "genero": "Cuidados Infantis",
+      "genero": ["Cuidados Infantis"],
       "ano": "1946",
       "autor": "Dr.benjamin Spock",
       "sinopse": "Meu filho, meu tesouro contém conselhos que passam pela limpeza do bebê, à forma de pegar ao colo, de colocar as fraldas e o manuseamento das mamadeiras, a preparação para o espaço do bebê e de lavar, que até pode ser o lava-louça, a forma de lavar as fraldas e o tipo de roupa a usar.",
