@@ -117,6 +117,7 @@ exports.addToMyList = (req, res, next) => {
                   ...data.userList,
                   {
                     nome: req.body.nome,
+                    tipo: req.body.type,
                     genero: req.body.genero,
                     ano: req.body.ano,
                     artista: req.body.artista,
@@ -127,6 +128,7 @@ exports.addToMyList = (req, res, next) => {
                   ...data.userList,
                   {
                     nome: req.body.nome,
+                    tipo: req.body.type,
                     generos: req.body.generos,
                     ano: req.body.ano,
                     imdbRating: req.body.imdbRating,
