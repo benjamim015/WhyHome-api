@@ -169,3 +169,45 @@ exports.getMyList = (req, res, next) => {
     }
   });
 };
+
+exports.removeFromMyList = (req, res, next) => {
+  const email = req.body.email;
+
+  db.get(email, (err, data) => {
+    if (err) {
+      return res.status(401).send({
+        msg: "Authentication failure",
+        response: null,
+      });
+    } else {
+      db.insert(
+        {
+          _id: data._id,
+          _rev: data._rev,
+          name: data.name,
+          surname: data.surname,
+          password: data.password,
+          userList: [
+            ...data.userList.filter((res) => {
+              if (res.nome !== req.body.nome) {
+                return res;
+              }
+            }),
+          ],
+        },
+        (err, data) => {
+          if (err) {
+            return res.status(401).send({
+              msg: "Authentication failure",
+              response: null,
+            });
+          } else {
+            return res.status(200).send({
+              msg: "Item removido da lista com sucesso!!",
+            });
+          }
+        }
+      );
+    }
+  });
+};

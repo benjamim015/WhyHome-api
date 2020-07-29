@@ -1,0 +1,266 @@
+{
+  "books": [
+    {
+      "nome": "Dom Quixote",
+      "genero": ["Paródia", "Farsa", "Sátira", "Romance Psicológico"],
+      "ano": "1612",
+      "autor": "Miguel de Cervantes",
+      "sinopse": "Dom Quixote foi publicado em uma época de grandes transformações; os romances de cavalaria, até então ocupando um lugar de destaque na literatura popular, já começavam a decair. Seguindo as inovações vigentes no contexto em que viveu, Cervantes satiriza este estilo literário, criando nesta obra uma paródia das novelas medievais protagonizadas por cavaleiros heróicos.",
+      "copias": "500 milhões",
+      "imagem": "https://images.theconversation.com/files/214927/original/file-20180416-587-7554t.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip"
+    },
+    {
+      "nome": "Um Conto de Duas Cidades",
+      "genero": ["Romance", "Ficção Histórica", "Crítica Social"],
+      "ano": "1859",
+      "autor": "Charles Dickens",
+      "sinopse": "Terno e violento. Essa adjetivação antagônica talvez dê conta do fulgor narrativo de Um conto de duas cidades. Repleto de aventura, romance e tragédia, o livro teve como inspiração a obra História da Revolução Francesa, publicada em 1837 pelo escritor, ensaísta e historiador escocês Thomas Carlyle (1795-1881). Longe de abandonar características dickensianas como o realismo e a forte tensão sentimental, incorpora, contudo, elementos que conferem a esta obra uma feliz singularidade dentro do legado do autor inglês. ",
+      "copias": "200 milhões",
+      "imagem": "https://http2.mlstatic.com/um-conto-de-duas-cidades-charles-dickens-imortais-universal-D_NQ_NP_838303-MLB25649161923_062017-F.jpg"
+    },
+    {
+      "nome": "O Alquimista",
+      "genero": ["Ficção de Aventura", "Literatura Fantástica"],
+      "ano": "1988",
+      "autor": "Paulo Coelho",
+      "sinopse": "O alquimista segue a jornada de um pastor andaluz chamado Santiago. Acreditando em um sonho recorrente de ser profético, ele decide viajar para uma adivinha Romani em uma cidade próxima para descobrir seu significado.",
+      "copias": "150+ milhões",
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81Ym0D7FHsL.jpg"
+    },
+    {
+      "nome": "O Senhor dos Anéis",
+      "genero": [
+        "Romance",
+        "Fantasia",
+        "Literatura de Aventura",
+        "Ficção de Aventura",
+        "Fantasia Heroica"
+      ],
+      "ano": "1954",
+      "autor": "J.R.R. Tolkien",
+      "sinopse": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+      "copias": "150 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "O Pequeno Príncipe",
+      "genero": [
+        "Literatura Infantil",
+        "Novela",
+        "Fábula",
+        "Ficção Especulativa"
+      ],
+      "ano": "1943",
+      "autor": "Antoine de Saint-Exupéry",
+      "sinopse": "A Pequena Garota encontra o excêntrico Aviador, que a introduz ao mágico mundo do Pequeno Príncipe. Neste mundo em que tudo é possível, a Garota aprende a redescobrir sua infância.",
+      "copias": "140 milhões",
+      "imagem": "https://i.pinimg.com/originals/e9/6e/3f/e96e3f6e8c24f4c384a21be93f508c86.png"
+    },
+    {
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "genero": ["Ficção", "Aventura", "Fantasia"],
+      "ano": "1997",
+      "autor": "J.K. Rowling",
+      "sinopse": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursleys. Ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente, Harry é impedido de ler a carta por seu tio, mas logo recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega para levá-lo até a escola. Harry adentra um mundo mágico que jamais imaginara, vivendo diversas aventuras com seus novos amigos, Rony Weasley e Hermione Granger.",
+      "copias": "107 milhões",
+      "imagem": "https://images-na.ssl-images-amazon.com/images/I/81ibfYk4qmL.jpg"
+    },
+    {
+      "nome": "O Hobbit",
+      "genero": ["Ação", "Aventura", "Fantasia", "Ficção Científica"],
+      "ano": "1937",
+      "autor": "J.R.R. Tolkien",
+      "sinopse": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug.",
+      "copias": "100 milhões",
+      "imagem": "https://img.elo7.com.br/product/zoom/268E09C/big-poster-o-hobbit-uma-jornada-inesperada-lo05-tam-90x60-cm-presente-geek.jpg"
+    },
+    {
+      "nome": "O Caso dos Dez Negrinhos",
+      "genero": "Romance Policial",
+      "ano": "1939",
+      "autor": "Agatha Christie",
+      "sinopse": "O Caso dos Dez Negrinhos conta a história de dez pessoas que ficam presas em uma ilha. ... Se assustam mais ainda quando começam a morrer um por um, de acordo com um quadro localizado acima da lareira da sala, que conta um poema de como dez negrinhos morreram.",
+      "copias": "100 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "O Sonho da Câmara Vermelha",
+      "genero": ["Romance", "Ficção", "Saga Familiar"],
+      "ano": "1754-1791",
+      "autor": "Cao Xueqin",
+      "sinopse": "“O Sonho da Câmara Vermelha”, de Cao Xueqin, é uma das obras-primas da literatura chinesa. O livro faz um relato detalhado da aristocracia chinesa da época. Acredita-se que o conteúdo da história seja autobiográfico descrevendo o destino da própria família do escritor.",
+      "copias": "100 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Ela, a Feiticeira",
+      "genero": [
+        "Romance de Amor",
+        "Romance de Cavalaria",
+        "Ficção de Aventura",
+        "Ficção Gótica",
+        "Literatura Fantástica"
+      ],
+      "ano": "1887",
+      "autor": "H.Rider Haggard",
+      "sinopse": "O livro narra as aventuras de Leo Vincey e Horace Holly numa região inexplorada da África, onde encontram uma civilização perdida obediente a uma misteriosa feiticeira chamada Ela.",
+      "copias": "100 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "O Leão, a Feiticeira e o Guarda-Roupa",
+      "genero": [
+        "Romance",
+        "Fantasia",
+        "Alta Fantasia",
+        "Literatura Infantil",
+        "Literatura Fantástica"
+      ],
+      "ano": "1950",
+      "autor": "C. S. Lewis",
+      "sinopse": "Durante os bombardeios da Segunda Guerra Mundial de Londres, quatro irmãos ingleses são enviados para uma casa de campo onde eles estarão seguros. Um dia, Lucy encontra um guarda-roupa que a transporta para um mundo mágico chamado Nárnia. Depois de voltar, ela logo volta a Nárnia com seus irmãos, Peter e Edmund, e sua irmã, Susan. Lá eles se juntam ao leão mágico, Aslan, na luta contra a Feiticeira Branca.",
+      "copias": "85 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "O Código da Vinci",
+      "genero": [
+        "Romance",
+        "Suspense",
+        "Ficção Policial",
+        "História de Detetives",
+        "Mistério"
+      ],
+      "ano": "2003",
+      "autor": "Dan Brown",
+      "sinopse": "Um assassinato no museu do Louvre em Paris e pistas enigmáticas em alguns dos quadros mais famosos de Leonardo DaVinci levam à descoberta de um mistério religioso. Por mais de dois mil anos, uma sociedade secreta guarda informações que, se descobertas, poderiam comprometer o cristianismo.",
+      "copias": "80 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Pense e Enriqueça",
+      "genero": "Livro de Autoajuda",
+      "ano": "1937",
+      "autor": "Napoleon Hill",
+      "sinopse": "O conteúdo de Pense e Enriqueça é baseado no trabalho anterior de Hill, A Lei do Triunfo, que, segundo o autor, é o resultado de mais de 20 anos de estudo analisando indivíduos que acumularam fortunas pessoais.",
+      "copias": "70 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e o Enigma do Príncipe",
+      "genero": [
+        "Ação",
+        "Fantasia",
+        "Romance",
+        "Aventura",
+        "Família",
+        "Mistério",
+        "Ficção"
+      ],
+      "ano": "2005",
+      "autor": "J.K. Rowling",
+      "sinopse": "No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.",
+      "copias": "65 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "O Apanhador no Campo de Centeio",
+      "genero": ["Romance", "Amadurecimento"],
+      "ano": "1951",
+      "autor": "J.D Salinger",
+      "sinopse": "Holden Caulfield é um adolescente mal humorado que não vê sentido em nada do que é obrigado a fazer e está sempre reclamando de tudo e de todos. Depois de ser expulso da escola ele faz suas malas e decide dar umas voltas pela cidade antes de chegar a hora de ir para casa e ter que enfrentar os pais.",
+      "copias": "65 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e a Câmara Secreta",
+      "genero": ["Família", "Fantasia", "Aventura", "Mistério"],
+      "ano": "1998",
+      "autor": "J.K. Rowling",
+      "sinopse": "Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.",
+      "copias": "60 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e o Prisioneiro de Azkaban",
+      "genero": ["Famíla", "Aventura", "Ficção", "Fantasia", "Mistério"],
+      "ano": "1999",
+      "autor": "J.K. Rowling",
+      "sinopse": "O terceiro ano de Harry Potter em Hogwarts começa mal quando ele descobre que o assassino Sirius Black escapou da prisão de Azkaban e está empenhado em matá-lo. Enquanto o gato de Hermione atormenta o rato doente de Ron, um bando de dementadores são enviados para proteger a escola de Sirius Black. Um professor misterioso ajuda Harry a aprender a se defender.",
+      "copias": "55 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e o Cálice de Fogo",
+      "genero": ["Família", "Fantasia", "Mistério", "Aventura", "Suspense"],
+      "ano": "2000",
+      "autor": "J.K. Rowling",
+      "sinopse": "Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Rony e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.",
+      "copias": "55 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e a Ordem da Fênix",
+      "genero": ["Ação", "Aventura", "Mistério", "Drama", "Família"],
+      "ano": "J.K. Rowling",
+      "autor": "2003",
+      "sinopse": "Harry Potter está em seu quinto ano em Hogwarts e acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldemort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa Contra as Artes das Trevas, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados. Harry, então, se reúne com um grupo de alunos para defender sua escola.",
+      "copias": "55 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Harry Potter e as Relíquias da morte",
+      "genero": ["Ação", "Aventura", "Fantasia"],
+      "ano": "2007",
+      "autor": "J.K. Rowling",
+      "sinopse": "Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.",
+      "copias": "50 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Cem Anos de Solidão",
+      "genero": ["Romance", "Realismo Mágico"],
+      "ano": "1967",
+      "autor": "Gabriel García Márquez",
+      "sinopse": "Cem anos de solidão narra a história da fictícia cidade de Macondo e a ascensão e queda de seus fundadores, a família Buendía.",
+      "copias": "50 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Lolita",
+      "genero": ["Romance", "Ficção", "Literatura Erótica", "Tragicomédia"],
+      "ano": "1955",
+      "autor": "Vladimir Nabokov",
+      "sinopse": "Professor de meia-idade casa com viúva que não suporta para ficar junto à enteada, menina de doze anos por quem se apaixona. Após a morte da mãe, os dois, já amantes, viajam como pai e filha, mas ela tem outros planos.",
+      "copias": "50 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Heidi",
+      "genero": ["Romance", "Literatura Infantil", "Ficção"],
+      "ano": "1880",
+      "autor": "Johanna Spyri",
+      "sinopse": "Heidi é uma garota órfã de oito anos de idade, feliz e tagarela, que mora com seu avô nos Alpes Suíços. Ela faz amigos com facilidade e todos sabem que sempre podem contar com sua ajuda.",
+      "copias": "50 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Meu Filho, Meu Tesouro",
+      "genero": "Cuidados Infantis",
+      "ano": "1946",
+      "autor": "Dr.benjamin Spock",
+      "sinopse": "Meu filho, meu tesouro contém conselhos que passam pela limpeza do bebê, à forma de pegar ao colo, de colocar as fraldas e o manuseamento das mamadeiras, a preparação para o espaço do bebê e de lavar, que até pode ser o lava-louça, a forma de lavar as fraldas e o tipo de roupa a usar.",
+      "copias": "50 milhões",
+      "imagem": ""
+    },
+    {
+      "nome": "Anne Shirley",
+      "genero": ["Romance", "Ficção", "Literatura Infantil"],
+      "ano": "1908",
+      "autor": "Lucy Maud Montgomery",
+      "sinopse": "Anne Shirley é um romance da escritora canadense L. M. Montgomery, publicado em 1908. Foi escrito como ficção para leitores de todas as idades, mas nas últimas décadas tem sido considerado principalmente um livro infantil. Ambientado no fim do século XIX, o livro conta as aventuras de Anne Shirley, uma orfã de onze anos que, por engano, acaba indo morar com dois irmãos de meia idade, Matthew e Marilla Cuthbert. Os dois vivem em uma fazenda na fictícia cidade de Avonlea na Ilha do Príncipe Eduardo e originalmente pretendiam adotar um garoto para que este os auxiliasse com os trabalhos braçais. ",
+      "copias": "50 milhões",
+      "imagem": ""
+    }
+  ]
+}

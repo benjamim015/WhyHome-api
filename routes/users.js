@@ -9,5 +9,10 @@ router.post("/signUp", UsersController.signUp);
 router.post("/login", UsersController.login);
 router.post("/addToMyList", login.required, UsersController.addToMyList);
 router.post("/getMyList", login.required, UsersController.getMyList);
+router.post(
+  "/removeFromMyList",
+  login.required,
+  UsersController.removeFromMyList
+);
 
 module.exports = router;
