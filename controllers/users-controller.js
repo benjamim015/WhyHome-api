@@ -74,7 +74,7 @@ exports.emailVerification = async (req, res, next) => {
     to: `${user.email}`,
     subject: "WhyHome",
     text: "Verificar conta!",
-    html: `<a href="https://rest-api-whyhome.herokuapp.com/users/test?name=${user.name}&surname=${user.surname}&email=${user.email}&password=${user.password}">Clique aqui para verificar sua conta</a>`,
+    html: `<a href="https://rest-api-whyhome.herokuapp.com/users/signUp?name=${user.name}&surname=${user.surname}&email=${user.email}&password=${user.password}">Clique aqui para verificar sua conta</a>`,
   });
 
   res.status(200).send({
