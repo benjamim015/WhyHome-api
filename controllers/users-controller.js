@@ -71,7 +71,7 @@ exports.emailVerification = async (req, res, next) => {
 
   let info = await transporter.sendMail({
     from: `"WhyHome" <WhyHome015@gmail.com>`,
-    to: "benjamimq@hotmail.com",
+    to: `${user.email}`,
     subject: "WhyHome",
     text: "Verificar conta!",
     html: `<a href="https://rest-api-whyhome.herokuapp.com/users/test?name=${user.name}&surname=${user.surname}&email=${user.email}&password=${user.password}">Clique aqui para verificar sua conta</a>`,
