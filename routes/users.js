@@ -5,7 +5,8 @@ const login = require("../middleware/login");
 
 const UsersController = require("../controllers/users-controller");
 
-router.post("/signUp", UsersController.signUp);
+router.post("/emailVerification", UsersController.emailVerification);
+router.get("/signUp", UsersController.signUp);
 router.post("/login", UsersController.login);
 router.post("/addToMyList", login.required, UsersController.addToMyList);
 router.post("/getMyList", login.required, UsersController.getMyList);

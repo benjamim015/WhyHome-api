@@ -8,7 +8,51 @@ var db = null;
 
 db = cloudant.db.use(dbname);
 
-exports.signUp = (req, res, next) => {
+const nodemailer = require("nodemailer");
+
+// exports.signUp = (req, res, next) => {
+//   const user = {
+//     name: req.body.name,
+//     surname: req.body.surname,
+//     email: req.body.email,
+//     password: req.body.password,
+//   };
+
+//   bcrpyt.hash(user.password, 10, (errBcrypt, hash) => {
+//     if (errBcrypt) {
+//       return res.status(500).send({ error: errBcrypt });
+//     }
+
+//     db.insert(
+//       {
+//         _id: user.email,
+//         name: user.name,
+//         surname: user.surname,
+//         password: hash,
+//         userList: [],
+//       },
+//       (err, data) => {
+//         console.log("data:", data);
+//         if (err) {
+//           return res.status(500).send({
+//             error: err,
+//             response: null,
+//           });
+//         }
+//         res.status(201).send({
+//           msg: "User added",
+//           user: {
+//             name: user.name,
+//             surname: user.surname,
+//             email: user.email,
+//           },
+//         });
+//       }
+//     );
+//   });
+// };
+
+exports.emailVerification = async (req, res, next) => {
   const user = {
     name: req.body.name,
     surname: req.body.surname,
@@ -16,11 +60,44 @@ exports.signUp = (req, res, next) => {
     password: req.body.password,
   };
 
+  const transporter = nodemailer.createTransport({
+    host: "smtp.gmail.com",
+    port: 587,
+    auth: {
+      user: process.env.NODEMAILER_USER,
+      pass: process.env.NODEMAILER_PASS,
+    },
+  });
+
+  let info = await transporter.sendMail({
+    from: `"WhyHome" <WhyHome015@gmail.com>`,
+    to: "benjamimq@hotmail.com",
+    subject: "WhyHome",
+    text: "Verificar conta!",
+    html: `<a href="https://rest-api-whyhome.herokuapp.com/users/test?name=${user.name}&surname=${user.surname}&email=${user.email}&password=${user.password}">Clique aqui para verificar sua conta</a>`,
+  });
+
+  res.status(200).send({
+    msg: "Verifique seu e-mail!",
+  });
+};
+
+exports.signUp = (req, res, next) => {
+  console.log(req.query);
+
+  const user = {
+    name: req.query.name,
+    surname: req.query.surname,
+    email: req.query.email,
+    password: req.query.password,
+  };
+
+  console.log(user);
+
   bcrpyt.hash(user.password, 10, (errBcrypt, hash) => {
     if (errBcrypt) {
       return res.status(500).send({ error: errBcrypt });
     }
-
     db.insert(
       {
         _id: user.email,
@@ -32,19 +109,21 @@ exports.signUp = (req, res, next) => {
       (err, data) => {
         console.log("data:", data);
         if (err) {
-          return res.status(500).send({
-            error: err,
-            response: null,
-          });
+          return res.status(500).send("<h2>Erro!</h2>");
         }
-        res.status(201).send({
-          msg: "User added",
-          user: {
-            name: user.name,
-            surname: user.surname,
-            email: user.email,
-          },
-        });
+        // res.status(201).send({
+        //   msg: "User added",
+        //   user: {
+        //     name: user.name,
+        //     surname: user.surname,
+        //     email: user.email,
+        //   },
+        // });
+        res
+          .status(201)
+          .send(
+            "<h2>Você foi registrado com sucesso! Já pode voltar para o aplicativo.</h2>"
+          );
       }
     );
   });
