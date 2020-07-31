@@ -41,16 +41,12 @@ exports.emailVerification = async (req, res, next) => {
 };
 
 exports.signUp = (req, res, next) => {
-  console.log(req.query);
-
   const user = {
     name: req.query.name,
     surname: req.query.surname,
     email: req.query.email,
     password: req.query.password,
   };
-
-  console.log(user);
 
   bcrpyt.hash(user.password, 10, (errBcrypt, hash) => {
     if (errBcrypt) {
@@ -65,18 +61,9 @@ exports.signUp = (req, res, next) => {
         userList: [],
       },
       (err, data) => {
-        console.log("data:", data);
         if (err) {
           return res.status(500).send("<h2>Erro!</h2>");
         }
-        // res.status(201).send({
-        //   msg: "User added",
-        //   user: {
-        //     name: user.name,
-        //     surname: user.surname,
-        //     email: user.email,
-        //   },
-        // });
         res
           .status(201)
           .send(
@@ -274,7 +261,6 @@ exports.addRatingTo = (req, res, next) => {
   const rating = req.body.rating;
 
   db.get(type, (err, data) => {
-    // console.log(data);
     if (err) {
       return res.status(400).send({
         msg: "Tipo não encontrado!",
