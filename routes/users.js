@@ -10,6 +10,7 @@ router.get("/signUp", UsersController.signUp);
 router.post("/login", UsersController.login);
 router.post("/addToMyList", login.required, UsersController.addToMyList);
 router.post("/getMyList", login.required, UsersController.getMyList);
+router.post("/addRatingTo", login.required, UsersController.addRatingTo);
 router.post(
   "/removeFromMyList",
   login.required,

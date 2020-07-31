@@ -10,48 +10,6 @@ db = cloudant.db.use(dbname);
 
 const nodemailer = require("nodemailer");
 
-// exports.signUp = (req, res, next) => {
-//   const user = {
-//     name: req.body.name,
-//     surname: req.body.surname,
-//     email: req.body.email,
-//     password: req.body.password,
-//   };
-
-//   bcrpyt.hash(user.password, 10, (errBcrypt, hash) => {
-//     if (errBcrypt) {
-//       return res.status(500).send({ error: errBcrypt });
-//     }
-
-//     db.insert(
-//       {
-//         _id: user.email,
-//         name: user.name,
-//         surname: user.surname,
-//         password: hash,
-//         userList: [],
-//       },
-//       (err, data) => {
-//         console.log("data:", data);
-//         if (err) {
-//           return res.status(500).send({
-//             error: err,
-//             response: null,
-//           });
-//         }
-//         res.status(201).send({
-//           msg: "User added",
-//           user: {
-//             name: user.name,
-//             surname: user.surname,
-//             email: user.email,
-//           },
-//         });
-//       }
-//     );
-//   });
-// };
-
 exports.emailVerification = async (req, res, next) => {
   const user = {
     name: req.body.name,
@@ -304,5 +262,57 @@ exports.removeFromMyList = (req, res, next) => {
         }
       );
     }
+  });
+};
+
+exports.addRatingTo = (req, res, next) => {
+  dbname = "mocks";
+  db = cloudant.db.use(dbname);
+
+  const type = req.body.type;
+  const name = req.body.name;
+  const rating = req.body.rating;
+
+  db.get(type, (err, data) => {
+    // console.log(data);
+    if (err) {
+      return res.status(400).send({
+        msg: "Tipo não encontrado!",
+        response: null,
+      });
+    }
+    db.insert(
+      {
+        _id: data._id,
+        _rev: data._rev,
+        series: [
+          ...data.series.map((res) => {
+            if (res.nome == name) {
+              res.qunatidadeNotas = res.qunatidadeNotas + 1;
+              res.notas = [...res.notas, rating];
+              let total = 0;
+              res.notas.map((resp) => {
+                total += resp;
+              });
+              res.mediaNotas = total / res.qunatidadeNotas;
+              return res;
+            }
+            return res;
+          }),
+        ],
+      },
+      (err, data) => {
+        if (err) {
+          return res.status(401).send({
+            msg: "Authentication failure",
+            response: null,
+          });
+        } else {
+          return res.status(200).send({
+            msg: "Nota adicinada com sucesso!!",
+          });
+        }
+      }
+    );
   });
 };
