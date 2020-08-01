@@ -146,6 +146,7 @@ exports.addToMyList = (req, res, next) => {
                     ano: req.body.ano,
                     artista: req.body.artista,
                     imagem: req.body.imagem,
+                    disponivelEm: req.body.disponivelEm,
                   },
                 ]
               : req.body.type == "movie" || req.body.type == "serie"
@@ -160,6 +161,7 @@ exports.addToMyList = (req, res, next) => {
                     restricao: req.body.restricao,
                     sinopse: req.body.sinopse,
                     imagem: req.body.imagem,
+                    disponivelEm: req.body.disponivelEm,
                   },
                 ]
               : [
@@ -173,6 +175,7 @@ exports.addToMyList = (req, res, next) => {
                     copias: req.body.copias,
                     sinopse: req.body.sinopse,
                     imagem: req.body.imagem,
+                    disponivelEm: req.body.disponivelEm,
                   },
                 ],
         },
