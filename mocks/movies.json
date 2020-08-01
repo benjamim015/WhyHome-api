@@ -10,7 +10,8 @@
       "imagem": "https://institutodecinema.com.br/public/img/theoldguard.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/81038963"]
     },
     {
       "nome": "Greyhound",
@@ -22,7 +23,11 @@
       "imagem": "https://cdn.collider.com/wp-content/uploads/2020/03/greyhound-poster.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Apple",
+        "https://tv.apple.com/us/movie/greyhound/umc.cmc.o5z5ztufuu3uv8lx7m0jcega"
+      ]
     },
     {
       "nome": "Palm Springs",
@@ -34,7 +39,11 @@
       "imagem": "https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Hulu",
+        "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11"
+      ]
     },
     {
       "nome": "Hamilton",
@@ -46,7 +55,11 @@
       "imagem": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Disney",
+        "https://disneyplusoriginals.disney.com/movie/hamilton"
+      ]
     },
     {
       "nome": "Dil Bechara",
@@ -58,7 +71,11 @@
       "imagem": "https://www.deccanherald.com/sites/dh/files/articleimages/2020/06/17/Dil%20Bechara-1592382302.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Hotstar",
+        "https://www.hotstar.com/in/movies/dil-bechara/1260036017"
+      ]
     },
     {
       "nome": "365 dias",
@@ -70,7 +87,8 @@
       "imagem": "https://www.clubretrohits.cl/wp-content/uploads/2020/06/365-DNI.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/81245964"]
     },
     {
       "nome": "Eurovision Song Contest",
@@ -82,7 +100,8 @@
       "imagem": "https://static01.nyt.com/images/2020/07/04/arts/02eurovision1/02eurovision1-videoSixteenByNineJumbo1600-v2.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80244088"]
     },
     {
       "nome": "A Barraca do Beijo 2",
@@ -94,7 +113,8 @@
       "imagem": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/05/A-Barraca-do-Beijo-2.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/br/title/81026818k"]
     },
     {
       "nome": "Entre Facas e Segredos",
@@ -106,7 +126,11 @@
       "imagem": "https://br.web.img3.acsta.net/pictures/19/12/10/00/10/1646487.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/amzn1.dv.gti.b0b8a8a5-6a9e-d48f-d5c5-000ff935fc2d?ref_=dvm_pds_tit_br_dc_s_g|m_ffh6Yolcc_c439002813796"
+      ]
     },
     {
       "nome": "MILF",
@@ -118,7 +142,8 @@
       "imagem": "https://image.tmdb.org/t/p/original/lMDccbIlg5UhFiRLh9ythQCeUfs.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/81248072"]
     },
     {
       "nome": "Encontro Fatal",
@@ -130,7 +155,8 @@
       "imagem": "https://portalcotidie.com/wp-content/uploads/2020/07/encontro-fatal-netflix.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/br/title/81068703"]
     },
     {
       "nome": "Magnatas do Crime",
@@ -142,7 +168,11 @@
       "imagem": "https://www.correiodopovo.com.br/image/policy:1.396288:1580322895/.jpg?f=default&$p$f=53ee086",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.amazon.com/Gentlemen-Matthew-McConaughey/dp/B08437KMR11"
+      ]
     },
     {
       "nome": "The Silencing",
@@ -154,7 +184,11 @@
       "imagem": "https://cdn.flickeringmyth.com/wp-content/uploads/2020/06/The-Silencing-5.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.amazon.com/Silencing-4K-UHD-Nikolaj-Coster-Waldau/dp/B08DD82XQT"
+      ]
     },
     {
       "nome": "The Rental",
@@ -166,7 +200,11 @@
       "imagem": "https://www.nerdsandbeyond.com/wp-content/uploads/2020/05/image.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.amazon.com/gp/product/B08D9XB1PJ/ref=pv_ag_gcf?cmp=rt_where_to_watch"
+      ]
     },
     {
       "nome": "Era Uma Vez em... Hollywood",
@@ -178,7 +216,8 @@
       "imagem": "https://conteudo.imguol.com.br/c/parceiros/c9/2020/01/05/era-uma-vez-em-hollywood-pode-ganhar-versao-estendida-com-4-horas-de-duracao-1578245358825_v2_1920x1080.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Youtube", "https://www.youtube.com/watch?v=iZhvLG5NZeE"]
     },
     {
       "nome": "The Outpost",
@@ -190,7 +229,11 @@
       "imagem": "https://poltronanerd.com.br/wp-content/uploads/2020/05/01.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.amazon.com/Outpost-Scott-Eastwood/dp/B08BJZ8F5C"
+      ]
     },
     {
       "nome": "The F**k-It List",
@@ -202,7 +245,8 @@
       "imagem": "https://img.reelgood.com/content/movie/8152063e-6b39-4815-a7a2-93da0e72f1ba/poster-780.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/81231351"]
     },
     {
       "nome": "Relic ",
@@ -214,7 +258,11 @@
       "imagem": "https://i.insider.com/5efcdec5988ee35edc343698?width=1100&format=jpeg&auto=webp",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.amazon.com/Relic-Emily-Mortimer/dp/B08CF5PTYYk"
+      ]
     },
     {
       "nome": "Midway",
@@ -226,7 +274,8 @@
       "imagem": "https://br.web.img2.acsta.net/pictures/19/09/26/09/18/5374630.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Youtube", "https://www.youtube.com/watch?v=zZF0xrcjNv0"]
     },
     {
       "nome": "Coringa ",
@@ -235,10 +284,11 @@
       "imdbRating": "8.5",
       "restricao": "16",
       "sinopse": "Em Gotham City, o comediante com problemas mentais Arthur Fleck é desconsiderado e maltratado pela sociedade. Ele então embarca em uma espiral descendente de revolução e crimes sangrentos. Esse caminho o coloca frente a frente com seu alter-ego: o Coringa.",
-      "imagem": "https://conteudo.imguol.com.br/c/noticias/8b/2018/09/21/joaquin-phoenix-com-a-maquiagem-de-palhaco-em-coringa-1537578484204_v2_1920x1920.jpg",
+      "imagem": "https://img.elo7.com.br/product/zoom/2B54CD8/big-poster-filme-joker-coringa-joaquin-phoenix-lo06-90x60-cm-filme-joker.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Youtube", "https://www.youtube.com/watch?v=KUlIaSTYbuo"]
     },
     {
       "nome": "Vingadores: Ultimato",
@@ -250,7 +300,11 @@
       "imagem": "https://br.web.img3.acsta.net/pictures/19/03/15/10/35/4177435.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/0SCA26FLXHRBCF2CA3E9SI6UR4/ref=atv_sr_def_c_unkc__1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B07ZWJPCN8&qid=1596233944"
+      ]
     },
     {
       "nome": "Parasita",
@@ -262,7 +316,8 @@
       "imagem": "https://razaodeaspecto.com/wp-content/uploads/2019/11/x23Fqkt00uqV2TzfSiB60hrc3HY.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Youtube", "https://www.youtube.com/watch?v=Zf_LRNWpFRs"]
     },
     {
       "nome": "A Barraca do Beijo",
@@ -274,7 +329,8 @@
       "imagem": "https://i2.wp.com/www.jornadageek.com.br/wp-content/uploads/2020/07/Imagem-do-filme-A-Barraca-do-Beijo-2.jpg?resize=1200%2C675&ssl=1",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "link"]
     },
     {
       "nome": "Três Anúncios para um Crime ",
@@ -286,7 +342,8 @@
       "imagem": "https://www.jornaldaparaiba.com.br/app/uploads/2018/02/tres-anuncios-1024x576.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80143556"]
     },
     {
       "nome": "Doutor Sono",
@@ -298,7 +355,8 @@
       "imagem": "https://i.ytimg.com/vi/oM4Jp05zI7E/maxresdefault.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Youtube", "https://www.youtube.com/watch?v=848P5pG4zx8"]
     }
   ]
 }

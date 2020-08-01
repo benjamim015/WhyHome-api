@@ -10,7 +10,8 @@
       "imagem": "https://wallpapercave.com/wp/wp3766660.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80002479"]
     },
     {
       "nome": "Dark",
@@ -22,7 +23,8 @@
       "imagem": "https://wallpapers.moviemania.io/phone/tv/70523/796198/dark-phone-wallpaper.jpg?w=1536&h=2732",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80100172"]
     },
     {
       "nome": "Game of Thrones",
@@ -34,7 +36,8 @@
       "imagem": "https://s2.best-wallpaper.net/wallpaper/iphone/1906/Game-of-Thrones-hot-TV-series_iphone_1080x1920.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["HBO", "https://www.hbo.com/game-of-thrones"]
     },
     {
       "nome": "The Boys",
@@ -46,7 +49,11 @@
       "imagem": "https://images.hdqwalls.com/download/the-boys-homelander-4k-hr-1280x2120.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/amzn1.dv.gti.5eb510bc-7578-d2dd-49d3-484070a96b52?ref_=dvm_pds_tit_br_dc_s_g%7Cm_OxLhIn3Mc_c373065447046"
+      ]
     },
     {
       "nome": "The Office",
@@ -58,7 +65,11 @@
       "imagem": "https://cdn.shopify.com/s/files/1/2604/9744/products/mWViWcVuW7oLn149FO6uJMfpNpY_1200x1800.jpg?v=1543674512",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/0H7JFOPK2QO9WVZ8D9D0J5ZRQN/ref=atv_dp_season_select_s1"
+      ]
     },
     {
       "nome": "Community",
@@ -70,7 +81,8 @@
       "imagem": "https://i.pinimg.com/736x/f9/13/43/f913433954648591c986a22236b8887d.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70155589"]
     },
     {
       "nome": "Vikings",
@@ -82,7 +94,8 @@
       "imagem": "https://i.pinimg.com/originals/3a/47/2f/3a472f01df84c9d392ad1394a8cc5a96.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70301870"]
     },
     {
       "nome": "Breaking Bad",
@@ -94,7 +107,8 @@
       "imagem": "https://wallpaperplay.com/walls/full/e/5/3/158862.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70143836"]
     },
     {
       "nome": "Supernatural",
@@ -106,7 +120,11 @@
       "imagem": "https://image.winudf.com/v2/image/Y29tLmluc2xhYi5zdXBlcm5hdHVyYWxsb2Nrc2NyZWVud2FsbHBhcGVyaGRfc2NyZWVuXzBfMTUyNDU0NzAzMV8wNzc/screen-0.jpg?fakeurl=1&type=.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/0JCAA2611DQ7NS7X8XE9XLDYCU/ref=atv_sr_def_c_unkc__1_1_1?sr=1-1&pageTypeIdSource=ASIN&pageTypeId=B07GHCQBR1&qid=1596229249"
+      ]
     },
     {
       "nome": "Ozark",
@@ -118,7 +136,8 @@
       "imagem": "https://streaming.hdsvf.com/wp-content/uploads/2020/03/ozark-18143-poster.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80117552"]
     },
     {
       "nome": "Friends",
@@ -130,7 +149,8 @@
       "imagem": "https://wallpapercave.com/wp/wp4112166.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70153404"]
     },
     {
       "nome": "Hanna",
@@ -142,7 +162,11 @@
       "imagem": "https://s2.best-wallpaper.net/wallpaper/iphone/1903/Hanna-TV-series_iphone_1242x2688.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/amzn1.dv.gti.04b8bd4e-ccb0-47cf-74b8-d9d7bccb0a7d?ref_=dvm_pds_tit_br_dc_s_g|m_u3L5WpP9c_c445684459190"
+      ]
     },
     {
       "nome": "Stranger Things",
@@ -154,7 +178,8 @@
       "imagem": "https://archziner.com/wp-content/uploads/2020/02/stranger-things-3-wallpaper-the-title-logo-of-the-show-written-in-neon-red-over-black-background.png",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80057281"]
     },
     {
       "nome": "La Casa de Papel",
@@ -166,7 +191,8 @@
       "imagem": "https://i.pinimg.com/originals/21/a9/38/21a93845630b62edd835349905e4e0b4.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80192098"]
     },
     {
       "nome": "The Sopranos",
@@ -178,7 +204,8 @@
       "imagem": "https://fsa.zobj.net/crop.php?r=VfFzkYCAdSyEZw2MDP7mYRRrv77jLYuLCP79emfUHw3LIPpCTzaMwHcF2kDhNRhuZHhohQFP1pZYKLZ6yH44Xr1foMPNyWF9zd-_L2YM2go6WkHsvIyVfXxQLGcJCm6fUAV3i3mxsSLtyVbT",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["HBO", "https://www.hbo.com/the-sopranos"]
     },
     {
       "nome": "Sons of Anarchy",
@@ -190,7 +217,8 @@
       "imagem": "https://wallpapercave.com/wp/wp3185613.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70143844"]
     },
     {
       "nome": "Black Mirror",
@@ -202,7 +230,8 @@
       "imagem": "https://br.web.img3.acsta.net/pictures/16/11/23/19/25/592195.png",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70264888"]
     },
     {
       "nome": "Westworld",
@@ -214,7 +243,8 @@
       "imagem": "https://wallpaperaccess.com/full/2533382.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["HBO", "https://www.hbo.com/westworld"]
     },
     {
       "nome": "Lost",
@@ -226,7 +256,8 @@
       "imagem": "https://wallpapers.moviemania.io/phone/tv/4607/2c42f9/lost-phone-wallpaper.jpg?w=1536&h=2732",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70136118"]
     },
     {
       "nome": "Better Call Saul",
@@ -238,7 +269,8 @@
       "imagem": "https://i.pinimg.com/originals/a9/0a/2f/a90a2f2481b25bcf7e9e2d09e87e5a3c.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80021955"]
     },
     {
       "nome": "The Witcher",
@@ -250,7 +282,8 @@
       "imagem": "https://wallpaperaccess.com/full/1692037.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80189685k"]
     },
     {
       "nome": "The Mandalorian",
@@ -262,7 +295,11 @@
       "imagem": "https://wallpapercave.com/wp/wp4916165.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Disney",
+        "https://disneyplusoriginals.disney.com/show/the-mandalorian"
+      ]
     },
     {
       "nome": "American Horror Story",
@@ -274,7 +311,11 @@
       "imagem": "https://wallpaperaccess.com/full/1286582.png",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Prime",
+        "https://www.primevideo.com/detail/amzn1.dv.gti.e2b83820-229d-2f3e-8450-107d7b385553?ref_=dvm_pds_tit_br_dc_s_g|m_mDRoiJ75c_c439002813349"
+      ]
     },
     {
       "nome": "Hannibal",
@@ -286,7 +327,8 @@
       "imagem": "https://i.pinimg.com/originals/68/de/de/68dede0bcfecc8a8d36cc1ce9cdb6305.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/70241956"]
     },
     {
       "nome": "The Handmaid's Tale",
@@ -298,7 +340,11 @@
       "imagem": "https://i.pinimg.com/originals/da/54/e9/da54e975f3eb9e1c33ca134d133bc1ed.jpg",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": [
+        "Globo",
+        "https://globoplay.globo.com/the-handmaids-tale/t/QDFNw11dPX/?gclid=Cj0KCQjwgo_5BRDuARIsADDEntT0v536qEqNc1SJtNJh7X16e7DRc3xpcAVDlOo-Edlz0hHiOp4AqPMaAu2PEALw_wcB"
+      ]
     },
     {
       "nome": "MindHunter",
@@ -310,7 +356,8 @@
       "imagem": "https://wallpaperaccess.com/full/1090249.png",
       "notas": [],
       "qunatidadeNotas": 0,
-      "mediaNotas": 0
+      "mediaNotas": 0,
+      "disponivelEm": ["Netflix", "https://www.netflix.com/title/80114855"]
     }
   ]
 }
